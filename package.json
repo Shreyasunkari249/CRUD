@@ -1,0 +1,17 @@
+{
+  "name": "azure",
+  "version": "1.0.0",
+  "description": "Assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shreya",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/cosmos": "^4.3.0",
+    "@azure/functions": "^4.7.0",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1"
+  }
+}
